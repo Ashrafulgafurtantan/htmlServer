@@ -1,0 +1,55 @@
+body {
+    background-color: powderblue;
+
+  }
+
+  div{
+      background-image: url('w3schools.jpg');
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: cover;
+    
+
+      font-size: 16px;
+  }
+  h1 {
+    color: blue;
+    background-color: blueviolet;
+    font-weight: bolder;
+    border: 2px solid yellow;
+    font-size: 30px;
+    font-family: sans-serif;
+
+  }
+  p {
+    color: red;
+    border: 2px solid peru;
+  padding: 30px;
+  margin: 40px;
+  }
+
+  
+  
+  a:link {
+    color: green;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  a:visited {
+    color: tomato;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  /* a:hover, a:active {
+    background-color: red;
+  }*/

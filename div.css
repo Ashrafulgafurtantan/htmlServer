@@ -1,0 +1,30 @@
+
+div{
+    color: white;
+    border-radius: 20px;
+
+}
+.a{
+    background-color: teal;
+    padding: 15px;
+    font-size: 14px;
+    margin: 10px;
+    font-weight: bold;
+
+    
+}
+.b{
+    background-color: tomato;
+    padding: 15px;
+    font-size: 14px;
+    margin: 10px;
+
+
+}
+#myHeader {
+    color: powderblue;
+    padding: 25px;
+    font-size: 50px;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    text-align: center;
+  }
